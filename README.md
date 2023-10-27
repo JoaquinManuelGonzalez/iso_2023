@@ -7,3 +7,4 @@
 * [**Scripts Práctica 3**](https://github.com/JoaquinManuelGonzalez/iso_2023/tree/main/practicas_resueltas/ejercicios_practica_3_shell_script)
 ### Prácticas PN:
 * [**Práctica 4**](https://github.com/JoaquinManuelGonzalez/iso_2023/blob/main/practicas_resueltas/trabajo_practico_4_iso.pdf)
+* [**Diagramas de Gantt**](https://github.com/JoaquinManuelGonzalez/iso_2023/tree/main/practicas_resueltas/diagramas_de_gantt)
